@@ -9,7 +9,7 @@ namespace ExercícioIMC
     internal class Pessoa
     {
         // Atributos
-        public string nome;
+        public string? nome;
         public double peso,  altura;
 
         // Metodos

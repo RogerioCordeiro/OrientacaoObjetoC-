@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conceitos", "Conceitos\Conceitos.csproj", "{3DDBEC66-DA77-4A97-A3AE-FBFE99AAE1B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conceitos", "Conceitos\Conceitos.csproj", "{3DDBEC66-DA77-4A97-A3AE-FBFE99AAE1B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.csproj", "{A4879316-AC3B-4AD3-B0D2-EDFB0EE66D78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodos", "Metodos\Metodos.csproj", "{A4879316-AC3B-4AD3-B0D2-EDFB0EE66D78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioEscolar", "ExercicioEscolar\ExercicioEscolar.csproj", "{609788DA-FDDB-49E1-99C7-3C76D734E7A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioEscolar", "ExercicioEscolar\ExercicioEscolar.csproj", "{609788DA-FDDB-49E1-99C7-3C76D734E7A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercícioIMC", "ExercícioIMC\ExercícioIMC.csproj", "{EFA5E457-8EB3-4624-B6DD-5EFE64C3FB89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercícioIMC", "ExercícioIMC\ExercícioIMC.csproj", "{EFA5E457-8EB3-4624-B6DD-5EFE64C3FB89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acesso", "Acesso\Acesso.csproj", "{DD24C7D0-B130-42CD-9FDF-4F50756A9A45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{EFA5E457-8EB3-4624-B6DD-5EFE64C3FB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFA5E457-8EB3-4624-B6DD-5EFE64C3FB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFA5E457-8EB3-4624-B6DD-5EFE64C3FB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD24C7D0-B130-42CD-9FDF-4F50756A9A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD24C7D0-B130-42CD-9FDF-4F50756A9A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD24C7D0-B130-42CD-9FDF-4F50756A9A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD24C7D0-B130-42CD-9FDF-4F50756A9A45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
